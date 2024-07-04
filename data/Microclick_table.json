@@ -1,5 +1,5 @@
 {
-    "id": 57436521,
+    "id": 107388116,
     "name": "Microclick table",
     "author": "leaf",
     "creators": ["leaf"],
@@ -9,3 +9,10 @@
     "password": "Copyable",
     "records": [
         {
+            "user": "deyeeted",
+            "link": "https://www.youtube.com/watch?v=yxnq9BTN6ow",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
